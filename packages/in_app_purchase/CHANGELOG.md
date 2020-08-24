@@ -1,3 +1,7 @@
+## 0.3.4+99
+
+* Adjust applicationUserName to pass through as obfuscatedAccountId to match updated google play API
+
 ## 0.3.4+7
 
 * iOS: Fix typo of the `simulatesAskToBuyInSandbox` key.
