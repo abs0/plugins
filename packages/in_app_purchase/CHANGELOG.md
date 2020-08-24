@@ -1,3 +1,7 @@
+## 0.3.4+5
+
+* Adjust applicationUserName to pass through as obfuscatedAccountId to match updated google play API
+
 ## 0.3.4+8
 
 * [iOS] Fixed: purchase dialog not showing always.
