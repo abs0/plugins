@@ -1,3 +1,7 @@
+## 0.3.5+1b
+
+* Adjust applicationUserName to pass through as obfuscatedAccountId to match updated google play API
+
 ## 0.3.5+1
 
 * Update the example app: remove the deprecated `RaisedButton` and `FlatButton` widgets.
