@@ -1,3 +1,7 @@
+## 0.3.4+16b
+
+* Adjust applicationUserName to pass through as obfuscatedAccountId to match updated google play API
+
 ## 0.3.4+16
 
 * Add Dartdocs to all public APIs.
